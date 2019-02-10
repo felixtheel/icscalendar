@@ -1,5 +1,7 @@
 # icscalendar
 
+https://img.shields.io/github/last-commit/felixtheel/icscalendar.svg?style=flat
+
 ## Usage
 ```python
 import icscalendar
